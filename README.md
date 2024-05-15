@@ -4,7 +4,7 @@ Este proyecto utiliza:
 
 - **React.js**
 - **Next.js**
-- **Tailwind CSS**
+- **Tailwind CSS** 
 
 ## Vista previa
 ![Vista previa](https://raw.githubusercontent.com/miltonAlan/react-twitter-clone/master/capture1.png "Vista previa 1")
